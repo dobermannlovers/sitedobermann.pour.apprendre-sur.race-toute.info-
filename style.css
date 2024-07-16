@@ -1,0 +1,41 @@
+h1{
+	color: #2A0A0C;
+}
+h2{
+	color: darksalmon;
+}
+p{
+	color: #C47654;
+}
+body{
+	background-color: #783926;
+}
+img#ana{
+	width:44%;
+}
+img#ana2{
+	width: 40%;
+}
+p{
+	font-family: "Josefin Sans", sans-serif;
+ 
+}
+h1{
+	 font-family: "Josefin Sans", sans-serif;
+
+}
+h2{
+	font-size: "Josefin Sans", sans-serif;
+}
+h1{
+	font-size: 50px;
+}
+h2{
+	font-size: 30px;
+}
+p{
+	font-size: 18px;
+}
+a{
+	color: darksalmon;
+}
